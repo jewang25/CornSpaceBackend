@@ -1,0 +1,6 @@
+version: "3"
+services:
+    demoo:
+        image: "sk592:test"
+        ports:
+            - 5000:5000
